@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CFG Food Project</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Amatic+SC&family=Caveat:wght@400;500&family=Kumbh+Sans:wght@100;200;300;400&family=Martian+Mono:wght@100;400&family=Slabo+27px&display=swap');
+  /*.flex-container {
+    display: flex;
+    background-color: #85a14a;
+    justify-content: space-around;
+   }
+    
+  /*.flex-container > div {
+  background-color: #505743;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  }
+  </style>
